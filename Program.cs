@@ -1,4 +1,9 @@
-﻿using System;
+﻿/*
+    Write a C# program to check two given integers 
+    and return true if one is negative and one is positive.
+*/
+
+using System;
 
 namespace BoolFunctionProj
 {
